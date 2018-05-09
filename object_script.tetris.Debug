@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\glass.o
+./debug\figure.o
+./debug\nextfigure.o
+./debug\photo.o
+./debug\dialog.o
+./debug\xdialog.o
+./debug\qrc_photo.o
+./debug\moc_mainwindow.o
+./debug\moc_glass.o
+./debug\moc_nextfigure.o
+./debug\moc_photo.o
+./debug\moc_dialog.o
+./debug\moc_xdialog.o
+);

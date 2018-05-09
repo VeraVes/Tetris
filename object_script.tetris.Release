@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\glass.o
+./release\figure.o
+./release\nextfigure.o
+./release\photo.o
+./release\dialog.o
+./release\xdialog.o
+./release\qrc_photo.o
+./release\moc_mainwindow.o
+./release\moc_glass.o
+./release\moc_nextfigure.o
+./release\moc_photo.o
+./release\moc_dialog.o
+./release\moc_xdialog.o
+);
